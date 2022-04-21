@@ -38,5 +38,3 @@ var chart = new Chart(ctx, {
         }
     }
 });
-
-// hr@webologixglobal.com
